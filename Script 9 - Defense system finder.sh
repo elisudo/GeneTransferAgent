@@ -1,0 +1,1 @@
+bash Defense_gene_finder.sh -p /data1/pacvanhaastrec/Defense_system_finder -b no -e 0.01 -s sensitive -t 40
